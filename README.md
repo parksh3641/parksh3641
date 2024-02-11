@@ -22,9 +22,7 @@
 
 <div align=center><h1>Download My App</h1></div>
 <div align=center>   
-    [윈드체스 Android](https://play.google.com/store/apps/details?id=com.unity3d.toucharcade)
-    [윈드체스 iOS](https://play.google.com/store/apps/details?id=com.unity3d.toucharcade)
-    <br>
+  [![Download on the App Store](https://img.shields.io/badge/Download%20on-the%20App%20Store-blue?style=for-the-badge&logo=apple&logoColor=white)](https://example.com/appstore-download-link)
 </div>
 
 
