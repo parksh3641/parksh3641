@@ -17,11 +17,14 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=flutter&logoColor=white"/>
+    <br>
 </div>
 
 <div align=center><h1>Download My App</h1></div>
 <div align=center>   
-  [구글 플레이 스토어 다운 받기](https://play.google.com/store/apps/details?id=com.unity3d.toucharcade)
+    [윈드체스 Android](https://play.google.com/store/apps/details?id=com.unity3d.toucharcade)
+    [윈드체스 iOS](https://play.google.com/store/apps/details?id=com.unity3d.toucharcade)
+    <br>
 </div>
 
 
