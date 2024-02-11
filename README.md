@@ -20,10 +20,7 @@
     <br>
 </div>
 
-<div align=center><h1>Download My App</h1></div>
-<div align=center>   
-  [![Download on the App Store](https://img.shields.io/badge/Download%20on-the%20App%20Store-blue?style=for-the-badge&logo=apple&logoColor=white)](https://example.com/appstore-download-link)
-</div>
+[애플 앱 스토어](https://play.google.com/store/apps/dev?id=8493220400768769623)](https://example.com/appstore-download-link)
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparksh3641&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
