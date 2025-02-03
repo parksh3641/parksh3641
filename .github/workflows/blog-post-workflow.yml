@@ -17,4 +17,3 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: 'https://parksh3641.tistory.com/rss'
-          max_post_count: '5
