@@ -20,9 +20,8 @@
     <br>
 </div>
 
+
 <div align=center><h1>📚 My App</h1></div>
-
-
 ### [Apple App Store](https://apps.apple.com/kr/developer/seong-hyeon-park/id1637056031)
 ### [Google Play Store](https://play.google.com/store/apps/dev?id=8493220400768769623)
 
@@ -35,7 +34,6 @@
 - [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
 - [Microsoft Student Partners – Geek is the new rockstar](https://dev.to/gautamkrishnar/microsoft-student-partners--geek-is-the-new-rockstar)
 <!-- BLOG-POST-LIST:END -->
-<div align=center><h1>📚 Lastest Blog Posts</h1></div>
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparksh3641&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
