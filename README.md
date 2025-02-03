@@ -30,11 +30,10 @@
 <div><h1>📕 Lastest Blog Posts</h1></div>
 
 <!-- BLOG-POST-LIST:START -->
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
-- [Microsoft Student Partners – Geek is the new rockstar](https://dev.to/gautamkrishnar/microsoft-student-partners--geek-is-the-new-rockstar)
+- [루아 Lua 메이플스토리 월드 옛날 메이플과 비슷하게 구현 방법 가이드](https://parksh3641.tistory.com/entry/%EB%A3%A8%EC%95%84-Lua-%EB%A9%94%EC%9D%B4%ED%94%8C%EC%8A%A4%ED%86%A0%EB%A6%AC-%EC%9B%94%EB%93%9C-%EC%98%9B%EB%82%A0-%EB%A9%94%EC%9D%B4%ED%94%8C%EA%B3%BC-%EB%B9%84%EC%8A%B7%ED%95%98%EA%B2%8C-%EA%B5%AC%ED%98%84-%EB%B0%A9%EB%B2%95-%EA%B0%80%EC%9D%B4%EB%93%9C)
+- [리엑트 네이티브 기본 프로젝트 구조 및 문법 설명 React Native](https://parksh3641.tistory.com/entry/%EB%A6%AC%EC%97%91%ED%8A%B8-%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-%EA%B8%B0%EB%B3%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B5%AC%EC%A1%B0-%EB%B0%8F-%EB%AC%B8%EB%B2%95-%EC%84%A4%EB%AA%85-React-Native)
+- [루아 Lua 메이플스토리 월드 NPC 대화 상자 구현하기](https://parksh3641.tistory.com/entry/%EB%A3%A8%EC%95%84-Lua-%EB%A9%94%EC%9D%B4%ED%94%8C%EC%8A%A4%ED%86%A0%EB%A6%AC-%EC%9B%94%EB%93%9C-NPC-%EB%8C%80%ED%99%94-%EC%83%81%EC%9E%90-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
+- [루아 Lua 메이플스토리 월드 NPC 아이템 획득 기능 구현하기](https://parksh3641.tistory.com/entry/%EB%A3%A8%EC%95%84-Lua-%EB%A9%94%EC%9D%B4%ED%94%8C%EC%8A%A4%ED%86%A0%EB%A6%AC-%EC%9B%94%EB%93%9C-NPC-%EC%95%84%EC%9D%B4%ED%85%9C-%ED%9A%8D%EB%93%9D-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
 <!-- BLOG-POST-LIST:END -->
  
  
