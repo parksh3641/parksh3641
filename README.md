@@ -21,7 +21,7 @@
 </div>
 
 
-<div><h1>💻 My App</h1></div>
+<div><h1>💻 My App Download URL</h1></div>
 
 ### [Apple App Store](https://apps.apple.com/kr/developer/seong-hyeon-park/id1637056031)
 ### [Google Play Store](https://play.google.com/store/apps/dev?id=8493220400768769623)
