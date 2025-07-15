@@ -30,6 +30,7 @@
 <div><h1>📕 Lastest Blog Posts</h1></div>
 
 <!-- BLOG-POST-LIST:START -->
+- [유니티 조치 필요 지원되는 버전의 Google Play 결제 라이브러리 7이상으로 이전하세요 해결 방법](https://parksh3641.tistory.com/entry/%EC%A1%B0%EC%B9%98-%ED%95%84%EC%9A%94-%EC%A7%80%EC%9B%90%EB%90%98%EB%8A%94-%EB%B2%84%EC%A0%84%EC%9D%98-Google-Play-%EA%B2%B0%EC%A0%9C-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A1%9C-%EC%9D%B4%EC%A0%84%ED%95%98%EC%84%B8%EC%9A%94)
 - [루아 Lua 메이플스토리 월드 옛날 메이플과 비슷하게 구현 방법 가이드](https://parksh3641.tistory.com/entry/%EB%A3%A8%EC%95%84-Lua-%EB%A9%94%EC%9D%B4%ED%94%8C%EC%8A%A4%ED%86%A0%EB%A6%AC-%EC%9B%94%EB%93%9C-%EC%98%9B%EB%82%A0-%EB%A9%94%EC%9D%B4%ED%94%8C%EA%B3%BC-%EB%B9%84%EC%8A%B7%ED%95%98%EA%B2%8C-%EA%B5%AC%ED%98%84-%EB%B0%A9%EB%B2%95-%EA%B0%80%EC%9D%B4%EB%93%9C)
 - [리엑트 네이티브 기본 프로젝트 구조 및 문법 설명 React Native](https://parksh3641.tistory.com/entry/%EB%A6%AC%EC%97%91%ED%8A%B8-%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-%EA%B8%B0%EB%B3%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B5%AC%EC%A1%B0-%EB%B0%8F-%EB%AC%B8%EB%B2%95-%EC%84%A4%EB%AA%85-React-Native)
 - [루아 Lua 메이플스토리 월드 NPC 대화 상자 구현하기](https://parksh3641.tistory.com/entry/%EB%A3%A8%EC%95%84-Lua-%EB%A9%94%EC%9D%B4%ED%94%8C%EC%8A%A4%ED%86%A0%EB%A6%AC-%EC%9B%94%EB%93%9C-NPC-%EB%8C%80%ED%99%94-%EC%83%81%EC%9E%90-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
@@ -40,7 +41,6 @@
 - [유니티 C# CSV 파일 처리 자동화 간단 구현](https://parksh3641.tistory.com/entry/%EC%9C%A0%EB%8B%88%ED%8B%B0-C-CSV-%ED%8C%8C%EC%9D%BC-%EC%B2%98%EB%A6%AC-%EC%9E%90%EB%8F%99%ED%99%94-%EA%B0%84%EB%8B%A8-%EA%B5%AC%ED%98%84)
 - [파이썬 Python 주식 자동 매매 프로그램 간단 구현](https://parksh3641.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC-Python-%EC%A3%BC%EC%8B%9D-%EC%9E%90%EB%8F%99-%EB%A7%A4%EB%A7%A4-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EA%B0%84%EB%8B%A8-%EA%B5%AC%ED%98%84)
 - [Flutter 플러터 파이어베이스 채팅 앱 구현하기 Firestore Database](https://parksh3641.tistory.com/entry/Flutter-%ED%94%8C%EB%9F%AC%ED%84%B0-%ED%8C%8C%EC%9D%B4%EC%96%B4%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%B1%84%ED%8C%85-%EC%95%B1-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-Firestore-Database)
-- [리엑트 네이티브 윈도우 컴퓨터 세팅 방법 React Native Windows](https://parksh3641.tistory.com/entry/%EB%A6%AC%EC%97%91%ED%8A%B8-%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-%EC%9C%88%EB%8F%84%EC%9A%B0-%EC%BB%B4%ED%93%A8%ED%84%B0-%EC%84%B8%ED%8C%85-%EB%B0%A9%EB%B2%95-React-Native-Windows)
 <!-- BLOG-POST-LIST:END -->
  
  
