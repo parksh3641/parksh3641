@@ -30,6 +30,7 @@
 <div><h1>📕 Lastest Blog Posts</h1></div>
 
 <!-- BLOG-POST-LIST:START -->
+- [윈도우10 11 24H2 성능 향상 차이 분석 비교](https://parksh3641.tistory.com/entry/%EC%9C%88%EB%8F%84%EC%9A%B010-11-24H2-%EC%84%B1%EB%8A%A5-%ED%96%A5%EC%83%81-%EC%B0%A8%EC%9D%B4-%EB%B6%84%EC%84%9D-%EB%B9%84%EA%B5%90)
 - [키움 OpenAPI랑 Flask로 쉽고 빠르게 만드는 자동매매 REST API](https://parksh3641.tistory.com/entry/%ED%82%A4%EC%9B%80-OpenAPI%EB%9E%91-Flask%EB%A1%9C-%EC%89%BD%EA%B3%A0-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%9E%90%EB%8F%99%EB%A7%A4%EB%A7%A4-REST-API)
 - [앱이  Android 15&lpar;API  수준 35&rpar; 이상을 타켓팅해야 함 수정 방법](https://parksh3641.tistory.com/entry/%EC%95%B1%EC%9D%B4-Android-15API-%EC%88%98%EC%A4%80-35-%EC%9D%B4%EC%83%81%EC%9D%84-%ED%83%80%EC%BC%93%ED%8C%85%ED%95%B4%EC%95%BC-%ED%95%A8-%EC%88%98%EC%A0%95-%EB%B0%A9%EB%B2%95)
 - [유니티 조치 필요 지원되는 버전의 Google Play 결제 라이브러리 7이상으로 이전하세요 해결 방법](https://parksh3641.tistory.com/entry/%EC%A1%B0%EC%B9%98-%ED%95%84%EC%9A%94-%EC%A7%80%EC%9B%90%EB%90%98%EB%8A%94-%EB%B2%84%EC%A0%84%EC%9D%98-Google-Play-%EA%B2%B0%EC%A0%9C-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A1%9C-%EC%9D%B4%EC%A0%84%ED%95%98%EC%84%B8%EC%9A%94)
@@ -40,7 +41,6 @@
 - [루아 Lua 메이플스토리 월드 NPC 대화 상자 구현하기](https://parksh3641.tistory.com/entry/%EB%A3%A8%EC%95%84-Lua-%EB%A9%94%EC%9D%B4%ED%94%8C%EC%8A%A4%ED%86%A0%EB%A6%AC-%EC%9B%94%EB%93%9C-NPC-%EB%8C%80%ED%99%94-%EC%83%81%EC%9E%90-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
 - [루아 Lua 메이플스토리 월드 NPC 아이템 획득 기능 구현하기](https://parksh3641.tistory.com/entry/%EB%A3%A8%EC%95%84-Lua-%EB%A9%94%EC%9D%B4%ED%94%8C%EC%8A%A4%ED%86%A0%EB%A6%AC-%EC%9B%94%EB%93%9C-NPC-%EC%95%84%EC%9D%B4%ED%85%9C-%ED%9A%8D%EB%93%9D-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
 - [루아 Lua 메이플스토리 월드 NPC 상호작용 기능 구현하기](https://parksh3641.tistory.com/entry/%EB%A3%A8%EC%95%84-Lua-%EB%A9%94%EC%9D%B4%ED%94%8C%EC%8A%A4%ED%86%A0%EB%A6%AC-%EC%9B%94%EB%93%9C-NPC-%EC%83%81%ED%98%B8%EC%9E%91%EC%9A%A9-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
-- [유니티 C# 앱 버전 비교해서 업데이트 하기 간단 구현 AWS 활용](https://parksh3641.tistory.com/entry/%EC%9C%A0%EB%8B%88%ED%8B%B0-C-%EC%95%B1-%EB%B2%84%EC%A0%84-%EB%B9%84%EA%B5%90%ED%95%B4%EC%84%9C-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%ED%95%98%EA%B8%B0-%EA%B0%84%EB%8B%A8-%EA%B5%AC%ED%98%84-AWS-%ED%99%9C%EC%9A%A9)
 <!-- BLOG-POST-LIST:END -->
  
  
