@@ -44,8 +44,8 @@
 - [방치형 게임 성공 전략 리텐션, 과금, 마케팅까지 단계별 완전 정리](https://parksh3641.tistory.com/entry/%EB%B0%A9%EC%B9%98%ED%98%95-%EA%B2%8C%EC%9E%84-%EC%84%B1%EA%B3%B5-%EC%A0%84%EB%9E%B5-%EB%A6%AC%ED%85%90%EC%85%98-%EA%B3%BC%EA%B8%88-%EB%A7%88%EC%BC%80%ED%8C%85%EA%B9%8C%EC%A7%80-%EB%8B%A8%EA%B3%84%EB%B3%84-%EC%99%84%EC%A0%84-%EC%A0%95%EB%A6%AC)
 - [인디게임 광고 성과 기준 퍼블리셔 선정 기준 방법](https://parksh3641.tistory.com/entry/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%A3%BC%EC%B2%B4-%ED%8C%90%EB%8B%A8-%EA%B8%B0%EC%A4%80-%EB%B0%8F-%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%85%94-%EC%84%A0%EC%A0%95-%EA%B8%B0%EC%A4%80)
 <!-- BLOG-POST-LIST:END -->
- 
- 
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parksh3641)](https://github.com/parksh3641/github-readme-stats)
 
